@@ -323,6 +323,34 @@ CMakeFiles/CPP_Codes.dir/mazimize_number_of_target_nodes_after_connecting_trees.
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Codes.dir/mazimize_number_of_target_nodes_after_connecting_trees.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\DSA_CPP\mazimize_number_of_target_nodes_after_connecting_trees.cpp -o CMakeFiles\CPP_Codes.dir\mazimize_number_of_target_nodes_after_connecting_trees.cpp.s
 
+CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj: CMakeFiles/CPP_Codes.dir/flags.make
+CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj: E:/DSA_CPP/maximize_number_of_target_nodes_after_connecting_trees_2.cpp
+CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj: CMakeFiles/CPP_Codes.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj -MF CMakeFiles\CPP_Codes.dir\maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj.d -o CMakeFiles\CPP_Codes.dir\maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj -c E:\DSA_CPP\maximize_number_of_target_nodes_after_connecting_trees_2.cpp
+
+CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\DSA_CPP\maximize_number_of_target_nodes_after_connecting_trees_2.cpp > CMakeFiles\CPP_Codes.dir\maximize_number_of_target_nodes_after_connecting_trees_2.cpp.i
+
+CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\DSA_CPP\maximize_number_of_target_nodes_after_connecting_trees_2.cpp -o CMakeFiles\CPP_Codes.dir\maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s
+
+CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj: CMakeFiles/CPP_Codes.dir/flags.make
+CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj: E:/DSA_CPP/find_closest_node_too_given_two_nodes.cpp
+CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj: CMakeFiles/CPP_Codes.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj -MF CMakeFiles\CPP_Codes.dir\find_closest_node_too_given_two_nodes.cpp.obj.d -o CMakeFiles\CPP_Codes.dir\find_closest_node_too_given_two_nodes.cpp.obj -c E:\DSA_CPP\find_closest_node_too_given_two_nodes.cpp
+
+CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\DSA_CPP\find_closest_node_too_given_two_nodes.cpp > CMakeFiles\CPP_Codes.dir\find_closest_node_too_given_two_nodes.cpp.i
+
+CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\DSA_CPP\find_closest_node_too_given_two_nodes.cpp -o CMakeFiles\CPP_Codes.dir\find_closest_node_too_given_two_nodes.cpp.s
+
 # Object files for target CPP_Codes
 CPP_Codes_OBJECTS = \
 "CMakeFiles/CPP_Codes.dir/Linked_List.cpp.obj" \
@@ -342,7 +370,9 @@ CPP_Codes_OBJECTS = \
 "CMakeFiles/CPP_Codes.dir/unique_paths_DP.cpp.obj" \
 "CMakeFiles/CPP_Codes.dir/combination_sum_2.cpp.obj" \
 "CMakeFiles/CPP_Codes.dir/unique_paths_2.cpp.obj" \
-"CMakeFiles/CPP_Codes.dir/mazimize_number_of_target_nodes_after_connecting_trees.cpp.obj"
+"CMakeFiles/CPP_Codes.dir/mazimize_number_of_target_nodes_after_connecting_trees.cpp.obj" \
+"CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj" \
+"CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj"
 
 # External object files for target CPP_Codes
 CPP_Codes_EXTERNAL_OBJECTS =
@@ -365,11 +395,13 @@ CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/unique_paths_DP.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/combination_sum_2.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/unique_paths_2.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/mazimize_number_of_target_nodes_after_connecting_trees.cpp.obj
+CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj
+CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/build.make
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/linkLibs.rsp
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/objects1.rsp
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable CPP_Codes.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable CPP_Codes.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPP_Codes.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

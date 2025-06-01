@@ -320,6 +320,30 @@ english_to_integer_words.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/english_to_integer_words.cpp.s
 .PHONY : english_to_integer_words.cpp.s
 
+find_closest_node_too_given_two_nodes.obj: find_closest_node_too_given_two_nodes.cpp.obj
+.PHONY : find_closest_node_too_given_two_nodes.obj
+
+# target to build an object file
+find_closest_node_too_given_two_nodes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj
+.PHONY : find_closest_node_too_given_two_nodes.cpp.obj
+
+find_closest_node_too_given_two_nodes.i: find_closest_node_too_given_two_nodes.cpp.i
+.PHONY : find_closest_node_too_given_two_nodes.i
+
+# target to preprocess a source file
+find_closest_node_too_given_two_nodes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.i
+.PHONY : find_closest_node_too_given_two_nodes.cpp.i
+
+find_closest_node_too_given_two_nodes.s: find_closest_node_too_given_two_nodes.cpp.s
+.PHONY : find_closest_node_too_given_two_nodes.s
+
+# target to generate assembly for a file
+find_closest_node_too_given_two_nodes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.s
+.PHONY : find_closest_node_too_given_two_nodes.cpp.s
+
 frog_jump_DP.obj: frog_jump_DP.cpp.obj
 .PHONY : frog_jump_DP.obj
 
@@ -367,6 +391,30 @@ lemonade_change.s: lemonade_change.cpp.s
 lemonade_change.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/lemonade_change.cpp.s
 .PHONY : lemonade_change.cpp.s
+
+maximize_number_of_target_nodes_after_connecting_trees_2.obj: maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj
+.PHONY : maximize_number_of_target_nodes_after_connecting_trees_2.obj
+
+# target to build an object file
+maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj
+.PHONY : maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj
+
+maximize_number_of_target_nodes_after_connecting_trees_2.i: maximize_number_of_target_nodes_after_connecting_trees_2.cpp.i
+.PHONY : maximize_number_of_target_nodes_after_connecting_trees_2.i
+
+# target to preprocess a source file
+maximize_number_of_target_nodes_after_connecting_trees_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.i
+.PHONY : maximize_number_of_target_nodes_after_connecting_trees_2.cpp.i
+
+maximize_number_of_target_nodes_after_connecting_trees_2.s: maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s
+.PHONY : maximize_number_of_target_nodes_after_connecting_trees_2.s
+
+# target to generate assembly for a file
+maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s
+.PHONY : maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s
 
 mazimize_number_of_target_nodes_after_connecting_trees.obj: mazimize_number_of_target_nodes_after_connecting_trees.cpp.obj
 .PHONY : mazimize_number_of_target_nodes_after_connecting_trees.obj
@@ -593,12 +641,18 @@ help:
 	@echo ... english_to_integer_words.obj
 	@echo ... english_to_integer_words.i
 	@echo ... english_to_integer_words.s
+	@echo ... find_closest_node_too_given_two_nodes.obj
+	@echo ... find_closest_node_too_given_two_nodes.i
+	@echo ... find_closest_node_too_given_two_nodes.s
 	@echo ... frog_jump_DP.obj
 	@echo ... frog_jump_DP.i
 	@echo ... frog_jump_DP.s
 	@echo ... lemonade_change.obj
 	@echo ... lemonade_change.i
 	@echo ... lemonade_change.s
+	@echo ... maximize_number_of_target_nodes_after_connecting_trees_2.obj
+	@echo ... maximize_number_of_target_nodes_after_connecting_trees_2.i
+	@echo ... maximize_number_of_target_nodes_after_connecting_trees_2.s
 	@echo ... mazimize_number_of_target_nodes_after_connecting_trees.obj
 	@echo ... mazimize_number_of_target_nodes_after_connecting_trees.i
 	@echo ... mazimize_number_of_target_nodes_after_connecting_trees.s

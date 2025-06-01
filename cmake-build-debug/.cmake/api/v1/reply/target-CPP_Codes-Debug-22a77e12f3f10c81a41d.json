@@ -69,7 +69,9 @@
 				16,
 				17,
 				18,
-				19
+				19,
+				20,
+				21
 			]
 		}
 	],
@@ -123,7 +125,9 @@
 				16,
 				17,
 				18,
-				19
+				19,
+				20,
+				21
 			]
 		},
 		{
@@ -253,6 +257,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "mazimize_number_of_target_nodes_after_connecting_trees.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "maximize_number_of_target_nodes_after_connecting_trees_2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "find_closest_node_too_given_two_nodes.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

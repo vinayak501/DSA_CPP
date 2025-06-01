@@ -20,4 +20,6 @@ add_executable(CPP_Codes Linked_List.cpp ListNode.cpp ListNode.h
         unique_paths_DP.cpp
         combination_sum_2.cpp
         unique_paths_2.cpp
-        mazimize_number_of_target_nodes_after_connecting_trees.cpp)
+        mazimize_number_of_target_nodes_after_connecting_trees.cpp
+        maximize_number_of_target_nodes_after_connecting_trees_2.cpp
+        find_closest_node_too_given_two_nodes.cpp)
