@@ -71,7 +71,10 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22,
+				23,
+				24
 			]
 		}
 	],
@@ -127,7 +130,10 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22,
+				23,
+				24
 			]
 		},
 		{
@@ -269,6 +275,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "find_closest_node_too_given_two_nodes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "candy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "maximum_candies_that_can_get_from_box.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "maximum_lexigraphically_string.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

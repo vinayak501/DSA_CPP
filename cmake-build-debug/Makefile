@@ -248,6 +248,30 @@ assign_cookies_GR.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/assign_cookies_GR.cpp.s
 .PHONY : assign_cookies_GR.cpp.s
 
+candy.obj: candy.cpp.obj
+.PHONY : candy.obj
+
+# target to build an object file
+candy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/candy.cpp.obj
+.PHONY : candy.cpp.obj
+
+candy.i: candy.cpp.i
+.PHONY : candy.i
+
+# target to preprocess a source file
+candy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/candy.cpp.i
+.PHONY : candy.cpp.i
+
+candy.s: candy.cpp.s
+.PHONY : candy.s
+
+# target to generate assembly for a file
+candy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/candy.cpp.s
+.PHONY : candy.cpp.s
+
 clockwise_spiral_marix.obj: clockwise_spiral_marix.cpp.obj
 .PHONY : clockwise_spiral_marix.obj
 
@@ -415,6 +439,54 @@ maximize_number_of_target_nodes_after_connecting_trees_2.s: maximize_number_of_t
 maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s
 .PHONY : maximize_number_of_target_nodes_after_connecting_trees_2.cpp.s
+
+maximum_candies_that_can_get_from_box.obj: maximum_candies_that_can_get_from_box.cpp.obj
+.PHONY : maximum_candies_that_can_get_from_box.obj
+
+# target to build an object file
+maximum_candies_that_can_get_from_box.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj
+.PHONY : maximum_candies_that_can_get_from_box.cpp.obj
+
+maximum_candies_that_can_get_from_box.i: maximum_candies_that_can_get_from_box.cpp.i
+.PHONY : maximum_candies_that_can_get_from_box.i
+
+# target to preprocess a source file
+maximum_candies_that_can_get_from_box.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.i
+.PHONY : maximum_candies_that_can_get_from_box.cpp.i
+
+maximum_candies_that_can_get_from_box.s: maximum_candies_that_can_get_from_box.cpp.s
+.PHONY : maximum_candies_that_can_get_from_box.s
+
+# target to generate assembly for a file
+maximum_candies_that_can_get_from_box.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.s
+.PHONY : maximum_candies_that_can_get_from_box.cpp.s
+
+maximum_lexigraphically_string.obj: maximum_lexigraphically_string.cpp.obj
+.PHONY : maximum_lexigraphically_string.obj
+
+# target to build an object file
+maximum_lexigraphically_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj
+.PHONY : maximum_lexigraphically_string.cpp.obj
+
+maximum_lexigraphically_string.i: maximum_lexigraphically_string.cpp.i
+.PHONY : maximum_lexigraphically_string.i
+
+# target to preprocess a source file
+maximum_lexigraphically_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.i
+.PHONY : maximum_lexigraphically_string.cpp.i
+
+maximum_lexigraphically_string.s: maximum_lexigraphically_string.cpp.s
+.PHONY : maximum_lexigraphically_string.s
+
+# target to generate assembly for a file
+maximum_lexigraphically_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Codes.dir\build.make CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.s
+.PHONY : maximum_lexigraphically_string.cpp.s
 
 mazimize_number_of_target_nodes_after_connecting_trees.obj: mazimize_number_of_target_nodes_after_connecting_trees.cpp.obj
 .PHONY : mazimize_number_of_target_nodes_after_connecting_trees.obj
@@ -632,6 +704,9 @@ help:
 	@echo ... assign_cookies_GR.obj
 	@echo ... assign_cookies_GR.i
 	@echo ... assign_cookies_GR.s
+	@echo ... candy.obj
+	@echo ... candy.i
+	@echo ... candy.s
 	@echo ... clockwise_spiral_marix.obj
 	@echo ... clockwise_spiral_marix.i
 	@echo ... clockwise_spiral_marix.s
@@ -653,6 +728,12 @@ help:
 	@echo ... maximize_number_of_target_nodes_after_connecting_trees_2.obj
 	@echo ... maximize_number_of_target_nodes_after_connecting_trees_2.i
 	@echo ... maximize_number_of_target_nodes_after_connecting_trees_2.s
+	@echo ... maximum_candies_that_can_get_from_box.obj
+	@echo ... maximum_candies_that_can_get_from_box.i
+	@echo ... maximum_candies_that_can_get_from_box.s
+	@echo ... maximum_lexigraphically_string.obj
+	@echo ... maximum_lexigraphically_string.i
+	@echo ... maximum_lexigraphically_string.s
 	@echo ... mazimize_number_of_target_nodes_after_connecting_trees.obj
 	@echo ... mazimize_number_of_target_nodes_after_connecting_trees.i
 	@echo ... mazimize_number_of_target_nodes_after_connecting_trees.s

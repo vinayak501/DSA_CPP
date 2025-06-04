@@ -1,4 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2025.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S E:\DSA_CPP -B E:\DSA_CPP\cmake-build-debug
--- Configuring done (0.9s)
+-- Configuring done (0.3s)
 -- Generating done (0.1s)
 -- Build files have been written to: E:/DSA_CPP/cmake-build-debug

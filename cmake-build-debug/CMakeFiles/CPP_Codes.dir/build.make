@@ -351,6 +351,48 @@ CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\DSA_CPP\find_closest_node_too_given_two_nodes.cpp -o CMakeFiles\CPP_Codes.dir\find_closest_node_too_given_two_nodes.cpp.s
 
+CMakeFiles/CPP_Codes.dir/candy.cpp.obj: CMakeFiles/CPP_Codes.dir/flags.make
+CMakeFiles/CPP_Codes.dir/candy.cpp.obj: E:/DSA_CPP/candy.cpp
+CMakeFiles/CPP_Codes.dir/candy.cpp.obj: CMakeFiles/CPP_Codes.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CPP_Codes.dir/candy.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Codes.dir/candy.cpp.obj -MF CMakeFiles\CPP_Codes.dir\candy.cpp.obj.d -o CMakeFiles\CPP_Codes.dir\candy.cpp.obj -c E:\DSA_CPP\candy.cpp
+
+CMakeFiles/CPP_Codes.dir/candy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Codes.dir/candy.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\DSA_CPP\candy.cpp > CMakeFiles\CPP_Codes.dir\candy.cpp.i
+
+CMakeFiles/CPP_Codes.dir/candy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Codes.dir/candy.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\DSA_CPP\candy.cpp -o CMakeFiles\CPP_Codes.dir\candy.cpp.s
+
+CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj: CMakeFiles/CPP_Codes.dir/flags.make
+CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj: E:/DSA_CPP/maximum_candies_that_can_get_from_box.cpp
+CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj: CMakeFiles/CPP_Codes.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj -MF CMakeFiles\CPP_Codes.dir\maximum_candies_that_can_get_from_box.cpp.obj.d -o CMakeFiles\CPP_Codes.dir\maximum_candies_that_can_get_from_box.cpp.obj -c E:\DSA_CPP\maximum_candies_that_can_get_from_box.cpp
+
+CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\DSA_CPP\maximum_candies_that_can_get_from_box.cpp > CMakeFiles\CPP_Codes.dir\maximum_candies_that_can_get_from_box.cpp.i
+
+CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\DSA_CPP\maximum_candies_that_can_get_from_box.cpp -o CMakeFiles\CPP_Codes.dir\maximum_candies_that_can_get_from_box.cpp.s
+
+CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj: CMakeFiles/CPP_Codes.dir/flags.make
+CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj: E:/DSA_CPP/maximum_lexigraphically_string.cpp
+CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj: CMakeFiles/CPP_Codes.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj -MF CMakeFiles\CPP_Codes.dir\maximum_lexigraphically_string.cpp.obj.d -o CMakeFiles\CPP_Codes.dir\maximum_lexigraphically_string.cpp.obj -c E:\DSA_CPP\maximum_lexigraphically_string.cpp
+
+CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\DSA_CPP\maximum_lexigraphically_string.cpp > CMakeFiles\CPP_Codes.dir\maximum_lexigraphically_string.cpp.i
+
+CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\DSA_CPP\maximum_lexigraphically_string.cpp -o CMakeFiles\CPP_Codes.dir\maximum_lexigraphically_string.cpp.s
+
 # Object files for target CPP_Codes
 CPP_Codes_OBJECTS = \
 "CMakeFiles/CPP_Codes.dir/Linked_List.cpp.obj" \
@@ -372,7 +414,10 @@ CPP_Codes_OBJECTS = \
 "CMakeFiles/CPP_Codes.dir/unique_paths_2.cpp.obj" \
 "CMakeFiles/CPP_Codes.dir/mazimize_number_of_target_nodes_after_connecting_trees.cpp.obj" \
 "CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj" \
-"CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj"
+"CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj" \
+"CMakeFiles/CPP_Codes.dir/candy.cpp.obj" \
+"CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj" \
+"CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj"
 
 # External object files for target CPP_Codes
 CPP_Codes_EXTERNAL_OBJECTS =
@@ -397,11 +442,14 @@ CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/unique_paths_2.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/mazimize_number_of_target_nodes_after_connecting_trees.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/maximize_number_of_target_nodes_after_connecting_trees_2.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/find_closest_node_too_given_two_nodes.cpp.obj
+CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/candy.cpp.obj
+CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/maximum_candies_that_can_get_from_box.cpp.obj
+CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/maximum_lexigraphically_string.cpp.obj
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/build.make
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/linkLibs.rsp
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/objects1.rsp
 CPP_Codes.exe: CMakeFiles/CPP_Codes.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable CPP_Codes.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\DSA_CPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable CPP_Codes.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPP_Codes.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
